@@ -1,7 +1,6 @@
 ---
 title: Add a URL App to Your Portal Site Test Green testRepo
-description: Create a URL app and add it to the launchpad page on your Portal site.
-auto_validation: true
+description: Create a URL app and add it to the launchpad page on your Portal site
 time: 15
 tags: [ tutorial>beginner, topic>javascript, tutorial>license ]
 primary_tag: topic>user-interface
